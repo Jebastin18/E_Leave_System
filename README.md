@@ -61,7 +61,7 @@ Clone or Download the Repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/e-leave-system.git
+git clone https://github.com/Jebastin18/E_Leave_System.git
 Import Database
 
 Use phpMyAdmin or MySQL CLI to import eleave_db.sql.
